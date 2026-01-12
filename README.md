@@ -44,4 +44,4 @@ The goal of this project is to identify accident patterns, high-risk conditions,
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
